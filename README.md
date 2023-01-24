@@ -28,8 +28,8 @@ The main reasons for calling into 911 seemed to be both EMS and traffic. When di
     5.	Cheltenham
     
 - Type of reasons for 911 calls and their respective counts
+https://github.com/stephbarrios/911_Calls_Data_Analysis/raw/master/graphs/reasoncount.png?raw=true
 
-![Alt text](/graphs/reasoncount.png?raw=true)
 
 - Separating reasons by days of the week, as well as their respective counts
 
